@@ -1,6 +1,6 @@
 # HackerEarth
 
-My solutions to [HackerEarth](https://www.hackerearth.com/) problems.
+My solutions to [HackerEarth](https://www.hackerearth.com/) challenges.
 
 ## Profile
 
